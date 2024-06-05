@@ -3,6 +3,7 @@ public class Main {
         System.out.println("new MVC");
         System.out.println("new MVC2");
         System.out.println("new JDBC");
+        System.out.println("new JDBC2");
         System.out.println("Hello world!");
     }
 }
